@@ -7,7 +7,7 @@ a{
 }
 
 a:link {
-    color: white;
+    color: black;
     text-decoration: none;
 }
 
@@ -39,6 +39,7 @@ a:hover {
 li {
 	display: inline;
 	font-size: 11pt;
+	z-index: -1;
 }
 .about{
 	position: absolute;
